@@ -31,4 +31,4 @@ permalink: /about/
 
 
 С уважением,
-коллектив INDIGO MEBEL CLUB
+коллектив INDIGO MEBEL CLUB.
