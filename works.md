@@ -7,42 +7,42 @@ permalink: /works/
 
 
 <div class="box alt">
-    <div class="row uniform">
-        <div class="4u"><span class="image fit"><img src="/images/1.jpg" alt="" /></span></div>
-        <div class="4u"><span class="image fit"><img src="/images/2.jpg" alt="" /></span></div>
-        <div class="4u"><span class="image fit"><img src="/images/3.jpg" alt="" /></span></div>
-        <div class="4u"><span class="image fit"><img src="/images/4.jpg" alt="" /></span></div>
-        <div class="4u"><span class="image fit"><img src="/images/5.jpg" alt="" /></span></div>
-        <div class="4u"><span class="image fit"><img src="/images/6.jpg" alt="" /></span></div>
-        <div class="4u"><span class="image fit"><img src="/images/7.jpg" alt="" /></span></div>
-        <div class="4u"><span class="image fit"><img src="/images/8.jpg" alt="" /></span></div>
-        <div class="4u"><span class="image fit"><img src="/images/9.jpg" alt="" /></span></div>
-        <div class="4u"><span class="image fit"><img src="/images/10.jpg" alt="" /></span></div>
-        <div class="4u"><span class="image fit"><img src="/images/11.jpg" alt="" /></span></div>
-        <div class="4u"><span class="image fit"><img src="/images/12.jpg" alt="" /></span></div>
-        <div class="4u"><span class="image fit"><img src="/images/13.jpg" alt="" /></span></div>
-        <div class="4u"><span class="image fit"><img src="/images/14.jpg" alt="" /></span></div>
-        <div class="4u"><span class="image fit"><img src="/images/15.jpg" alt="" /></span></div>
-        <div class="4u"><span class="image fit"><img src="/images/16.jpg" alt="" /></span></div>
-        <div class="4u"><span class="image fit"><img src="/images/17.jpg" alt="" /></span></div>
-        <div class="4u"><span class="image fit"><img src="/images/18.jpg" alt="" /></span></div>
-        <div class="4u"><span class="image fit"><img src="/images/19.jpg" alt="" /></span></div>
-        <div class="4u"><span class="image fit"><img src="/images/20.jpg" alt="" /></span></div>
-        <div class="4u"><span class="image fit"><img src="/images/21.jpg" alt="" /></span></div>
-        <div class="4u"><span class="image fit"><img src="/images/22.jpg" alt="" /></span></div>
-        <div class="4u"><span class="image fit"><img src="/images/23.jpg" alt="" /></span></div>
-        <div class="4u"><span class="image fit"><img src="/images/24.jpg" alt="" /></span></div>
-        <div class="4u"><span class="image fit"><img src="/images/25.jpg" alt="" /></span></div>
-        <div class="4u"><span class="image fit"><img src="/images/26.jpg" alt="" /></span></div>
-        <div class="4u"><span class="image fit"><img src="/images/27.jpg" alt="" /></span></div>
-        <div class="4u"><span class="image fit"><img src="/images/28.jpg" alt="" /></span></div>
-        <div class="4u"><span class="image fit"><img src="/images/29.jpg" alt="" /></span></div>
-        <div class="4u"><span class="image fit"><img src="/images/30.jpg" alt="" /></span></div>
-        <div class="4u"><span class="image fit"><img src="/images/31.jpg" alt="" /></span></div>
-        <div class="4u"><span class="image fit"><img src="/images/32.jpg" alt="" /></span></div>
-        <div class="4u"><span class="image fit"><img src="/images/33.jpg" alt="" /></span></div>
-        <div class="4u"><span class="image fit"><img src="/images/34.jpg" alt="" /></span></div>
-        <div class="4u"><span class="image fit"><img src="/images/35.jpg" alt="" /></span></div>
-        <div class="4u"><span class="image fit"><img src="/images/36.jpg" alt="" /></span></div>
+    <div class="row uniform photo-gallery">
+        <div class="4u"><a class="image fit" href="/images/1.jpg" data-size="1000x667"><img src="/images/1.jpg" alt="" /></a></div>
+        <div class="4u"><a class="image fit" href="/images/2.jpg" data-size="1000x667"><img src="/images/2.jpg" alt="" /></a></div>
+        <div class="4u"><a class="image fit" href="/images/3.jpg" data-size="1000x667"><img src="/images/3.jpg" alt="" /></a></div>
+        <div class="4u"><a class="image fit" href="/images/4.jpg" data-size="1000x667"><img src="/images/4.jpg" alt="" /></a></div>
+        <div class="4u"><a class="image fit" href="/images/5.jpg" data-size="1000x667"><img src="/images/5.jpg" alt="" /></a></div>
+        <div class="4u"><a class="image fit" href="/images/6.jpg" data-size="1000x667"><img src="/images/6.jpg" alt="" /></a></div>
+        <div class="4u"><a class="image fit" href="/images/7.jpg" data-size="1000x667"><img src="/images/7.jpg" alt="" /></a></div>
+        <div class="4u"><a class="image fit" href="/images/8.jpg" data-size="1000x667"><img src="/images/8.jpg" alt="" /></a></div>
+        <div class="4u"><a class="image fit" href="/images/9.jpg" data-size="1000x667"><img src="/images/9.jpg" alt="" /></a></div>
+        <div class="4u"><a class="image fit" href="/images/10.jpg" data-size="1000x667"><img src="/images/10.jpg" alt="" /></a></div>
+        <div class="4u"><a class="image fit" href="/images/11.jpg" data-size="1000x667"><img src="/images/11.jpg" alt="" /></a></div>
+        <div class="4u"><a class="image fit" href="/images/12.jpg" data-size="1000x667"><img src="/images/12.jpg" alt="" /></a></div>
+        <div class="4u"><a class="image fit" href="/images/13.jpg" data-size="1000x667"><img src="/images/13.jpg" alt="" /></a></div>
+        <div class="4u"><a class="image fit" href="/images/14.jpg" data-size="1000x667"><img src="/images/14.jpg" alt="" /></a></div>
+        <div class="4u"><a class="image fit" href="/images/15.jpg" data-size="1000x667"><img src="/images/15.jpg" alt="" /></a></div>
+        <div class="4u"><a class="image fit" href="/images/16.jpg" data-size="1000x667"><img src="/images/16.jpg" alt="" /></a></div>
+        <div class="4u"><a class="image fit" href="/images/17.jpg" data-size="1000x667"><img src="/images/17.jpg" alt="" /></a></div>
+        <div class="4u"><a class="image fit" href="/images/18.jpg" data-size="1000x667"><img src="/images/18.jpg" alt="" /></a></div>
+        <div class="4u"><a class="image fit" href="/images/19.jpg" data-size="1000x667"><img src="/images/19.jpg" alt="" /></a></div>
+        <div class="4u"><a class="image fit" href="/images/20.jpg" data-size="1000x667"><img src="/images/20.jpg" alt="" /></a></div>
+        <div class="4u"><a class="image fit" href="/images/21.jpg" data-size="1000x667"><img src="/images/21.jpg" alt="" /></a></div>
+        <div class="4u"><a class="image fit" href="/images/22.jpg" data-size="1000x667"><img src="/images/22.jpg" alt="" /></a></div>
+        <div class="4u"><a class="image fit" href="/images/23.jpg" data-size="1000x667"><img src="/images/23.jpg" alt="" /></a></div>
+        <div class="4u"><a class="image fit" href="/images/24.jpg" data-size="1000x667"><img src="/images/24.jpg" alt="" /></a></div>
+        <div class="4u"><a class="image fit" href="/images/25.jpg" data-size="1000x667"><img src="/images/25.jpg" alt="" /></a></div>
+        <div class="4u"><a class="image fit" href="/images/26.jpg" data-size="1000x667"><img src="/images/26.jpg" alt="" /></a></div>
+        <div class="4u"><a class="image fit" href="/images/27.jpg" data-size="1000x667"><img src="/images/27.jpg" alt="" /></a></div>
+        <div class="4u"><a class="image fit" href="/images/28.jpg" data-size="1000x667"><img src="/images/28.jpg" alt="" /></a></div>
+        <div class="4u"><a class="image fit" href="/images/29.jpg" data-size="1000x667"><img src="/images/29.jpg" alt="" /></a></div>
+        <div class="4u"><a class="image fit" href="/images/30.jpg" data-size="1000x667"><img src="/images/30.jpg" alt="" /></a></div>
+        <div class="4u"><a class="image fit" href="/images/31.jpg" data-size="1000x667"><img src="/images/31.jpg" alt="" /></a></div>
+        <div class="4u"><a class="image fit" href="/images/32.jpg" data-size="1000x667"><img src="/images/32.jpg" alt="" /></a></div>
+        <div class="4u"><a class="image fit" href="/images/33.jpg" data-size="1000x667"><img src="/images/33.jpg" alt="" /></a></div>
+        <div class="4u"><a class="image fit" href="/images/34.jpg" data-size="1000x667"><img src="/images/34.jpg" alt="" /></a></div>
+        <div class="4u"><a class="image fit" href="/images/35.jpg" data-size="1000x667"><img src="/images/35.jpg" alt="" /></a></div>
+        <div class="4u"><a class="image fit" href="/images/36.jpg" data-size="1000x667"><img src="/images/36.jpg" alt="" /></a></div>
     </div>
 </div>
