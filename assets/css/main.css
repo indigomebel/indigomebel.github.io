@@ -3393,6 +3393,10 @@
 			font-size: 1.25em;
 			font-weight: bold;
 		}
+		#header > .title > .logo {
+			float: left;
+			margin: 2px .4em 0 0;
+		}
 
 		#header > nav {
 			-moz-flex: 1;
@@ -3890,6 +3894,11 @@
 		background-repeat: no-repeat;
 		background-size: 100% 100%;
 	}
+
+		#intro .logo {
+			float: left;
+			margin: .05em .4em 0 0;
+		}
 
 		#intro p {
 			font-size: 1.25em;
