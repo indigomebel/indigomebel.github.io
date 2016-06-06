@@ -167,6 +167,24 @@
 						}
 					});
 
+
+		$slider = $('#slider-gallery');
+		function changeImage() {
+			var activeImage = $slider.find('img.active');
+			if (activeImage.next().length) {
+				activeImage.removeClass('active');
+				activeImage.next().addClass('active');
+			} else {
+				activeImage.removeClass('active');
+				$slider.find('img:first').addClass('active');
+			}
+		}
+		if ($slider.length) {
+			setInterval(changeImage, 4000);
+		}
+
 	});
+
+
 
 })(jQuery);
