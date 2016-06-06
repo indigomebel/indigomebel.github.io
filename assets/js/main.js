@@ -168,16 +168,17 @@
 					});
 
 
-		$slider = $('#slider-gallery');
+		$slider = $('#intro');
 		function changeImage() {
-			var activeImage = $slider.find('img.active');
-			if (activeImage.next().length) {
-				activeImage.removeClass('active');
-				activeImage.next().addClass('active');
+			var activeImage = $slider.data('image');
+			activeImage = parseInt(activeImage, 10);
+			if (activeImage < 6) {
+				activeImage++;
 			} else {
-				activeImage.removeClass('active');
-				$slider.find('img:first').addClass('active');
+				activeImage = 1;
 			}
+			$slider.css('backgroundImage', 'url("/images/mainpage/main' + activeImage + '.jpg")');
+			$slider.data('image', activeImage);
 		}
 		if ($slider.length) {
 			setInterval(changeImage, 4000);
