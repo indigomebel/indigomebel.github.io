@@ -3928,3 +3928,11 @@
 			}
 
 		}
+
+.slider-gallery img {
+	display: none;
+	width: 100%;
+}
+.slider-gallery img.active {
+	display: inline-block;
+}
