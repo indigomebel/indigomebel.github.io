@@ -3899,6 +3899,10 @@
 		#intro {
 			background-image: url('/images/mainpage/main1.jpg');
 			text-shadow: 1px 1px 0px rgba(0, 2, 128, .6);
+
+			-moz-transition: background-image 4s ease;
+			-webkit-transition: background-image 4s ease;
+			-ms-transition: background-image 4s ease;
 			transition: background-image 4s ease;
 		}
 
