@@ -171,13 +171,14 @@
 		$slider = $('#intro');
 		function changeImage() {
 			var activeImage = $slider.data('image');
+			var currentImage = $slider.data('image');
 			activeImage = parseInt(activeImage, 10);
 			if (activeImage < 6) {
 				activeImage++;
 			} else {
 				activeImage = 1;
 			}
-			$slider.css('backgroundImage', 'url("/images/mainpage/main' + activeImage + '.jpg")');
+			$slider.css('backgroundImage', 'url("/images/mainpage/main' + currentImage + '.jpg"), url("/images/mainpage/main' + activeImage + '.jpg")');
 			$slider.data('image', activeImage);
 		}
 		function createInterval() {
