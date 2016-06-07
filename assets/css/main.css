@@ -3946,3 +3946,9 @@
 .slider-gallery img.active {
 	display: inline-block;
 }
+
+.preload-images {
+	position: absolute;
+	top: -100000em;
+	left: -100000em;
+}

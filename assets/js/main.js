@@ -180,8 +180,11 @@
 			$slider.css('backgroundImage', 'url("/images/mainpage/main' + activeImage + '.jpg")');
 			$slider.data('image', activeImage);
 		}
-		if ($slider.length) {
+		function createInterval() {
 			setInterval(changeImage, 4000);
+		}
+		if ($slider.length) {
+			setTimeout(createInterval, 2500);
 		}
 
 	});
