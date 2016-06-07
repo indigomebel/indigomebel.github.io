@@ -3467,12 +3467,13 @@
 				}
 
 					#header > nav > ul > li {
-						margin-left: 1.5em;
+						margin-left: 0.6em;
 					}
 
 						#header > nav > ul > li a {
 							height: 6em;
 							line-height: 6em;
+							letter-spacing: 0.01em;
 						}
 
 		}
@@ -3879,8 +3880,12 @@
 
 		@media screen and (max-width: 736px) {
 
-			#sidebar {
-				display: none;
+			#sidebar nav ul li {
+				margin-left: 1em;
+			}
+
+			#sidebar nav a {
+				letter-spacing: 0.01em;
 			}
 
 		}
