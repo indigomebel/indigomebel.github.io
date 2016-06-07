@@ -181,7 +181,7 @@
 			$slider.data('image', activeImage);
 		}
 		function createInterval() {
-			setInterval(changeImage, 6000);
+			setInterval(changeImage, 7000);
 		}
 		if ($slider.length) {
 			setTimeout(createInterval, 3000);
