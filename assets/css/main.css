@@ -1786,6 +1786,30 @@
 
 	}
 
+	@media screen and (max-width: 736px) {
+
+		h1 {
+			font-size: 1.8em;
+			line-height: 5em;
+		}
+		#intro .logo {
+			margin-top: 1.55em !important;
+			width: 1.5em;
+		}
+	}
+
+	@media screen and (max-width: 470px) {
+
+		h1 {
+			font-size: 1.5em;
+			line-height: 5em;
+		}
+		#intro .logo {
+			margin-top: 1.55em !important;
+			width: 1.5em;
+		}
+	}
+
 	sub {
 		font-size: 0.8em;
 		position: relative;
