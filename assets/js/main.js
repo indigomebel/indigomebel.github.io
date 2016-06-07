@@ -181,10 +181,10 @@
 			$slider.data('image', activeImage);
 		}
 		function createInterval() {
-			setInterval(changeImage, 4000);
+			setInterval(changeImage, 6000);
 		}
 		if ($slider.length) {
-			setTimeout(createInterval, 2500);
+			setTimeout(createInterval, 3000);
 		}
 
 	});
